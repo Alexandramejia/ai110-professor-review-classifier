@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.7097,
+  "finetuned_accuracy": 0.6129,
+  "improvement": -0.0968,
+  "test_set_size": 31,
+  "label_map": {
+    "helpful_review": 0,
+    "course_advice": 1,
+    "emotional_reaction": 2
+  },
+  "model": "distilbert-base-uncased"
+}
